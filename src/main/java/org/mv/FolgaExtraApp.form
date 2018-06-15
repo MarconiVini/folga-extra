@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="org.mv.FolgaExtraApp">
+  <grid id="27dc6" binding="jPanelTopo" layout-manager="BorderLayout" hgap="0" vgap="0">
+    <constraints>
+      <xy x="20" y="20" width="500" height="171"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <vspacer id="ade14">
+        <constraints border-constraint="Before"/>
+      </vspacer>
+      <component id="2ceb6" class="javax.swing.JLabel">
+        <constraints border-constraint="First"/>
+        <properties>
+          <text value="FolgaExtra - Por que você merece uns diazinhos a mais!"/>
+        </properties>
+      </component>
+      <component id="675a" class="javax.swing.JList" binding="listFeriados">
+        <constraints border-constraint="West"/>
+        <properties/>
+      </component>
+    </children>
+  </grid>
+</form>

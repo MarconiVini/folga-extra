@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/folga-extra.iml" filepath="$PROJECT_DIR$/.idea/modules/folga-extra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/folga-extra_main.iml" filepath="$PROJECT_DIR$/.idea/modules/folga-extra_main.iml" group="folga-extra" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/folga-extra_test.iml" filepath="$PROJECT_DIR$/.idea/modules/folga-extra_test.iml" group="folga-extra" />
+    </modules>
+  </component>
+</project>
